@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "new post!"
+title:  "typing-game"
 date:   2022-05-24 22:10:10 +0900
 categories: jekyll update
 ---

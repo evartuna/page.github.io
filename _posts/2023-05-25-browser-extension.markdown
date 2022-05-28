@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "second post!"
+#title:  "second post!"
 date:   2022-05-25 23:36:10 +0900
 categories: jekyll update
 ---
